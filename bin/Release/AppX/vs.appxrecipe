@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS</Machine>
+    <WindowsUser>gökçe</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31329GkeDemir.9.SnfKitapzmleri</PackageIdentityName>
+    <RegisteredManifestChecksum>A9D482983A3F75BE5D43A9DDE511143C01DE1588BB20198333E2D7524970D7E1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31329GkeDemir.9.SnfKitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31329GkeDemir.9.SnfKitapzmleri_97ngnz5mx8h7c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31329GkeDemir.9.SnfKitapzmleri</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=D94A7BD3-2EAB-4797-8DB7-952EDF61A55D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.5</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-21T16:05:19.665</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.exe">
+      <PackagePath>9.Sınıf Kitap Çözümleri.exe</PackagePath>
+      <Modified>2014-05-18T11:49:21.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\anasayfam1.png">
+      <PackagePath>Assets\anasayfam1.png</PackagePath>
+      <Modified>2014-05-18T10:20:45.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\logo 2.scale-100.png">
+      <PackagePath>Assets\logo 2.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-18T11:47:45.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\logo1.png">
+      <PackagePath>Assets\logo1.png</PackagePath>
+      <Modified>2014-05-18T10:14:56.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <Modified>2014-05-11T07:25:45.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-18T10:09:44.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\bu.png">
+      <PackagePath>Assets\Pictures\bu.png</PackagePath>
+      <Modified>2014-05-10T14:06:38.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-18T11:45:19.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-18T11:14:13.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\bos.txt">
+      <PackagePath>Assets\bos.txt</PackagePath>
+      <Modified>2014-05-17T17:59:18.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 131-132.txt">
+      <PackagePath>Assets\dil 131-132.txt</PackagePath>
+      <Modified>2014-05-16T17:31:54.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 1-2.txt">
+      <PackagePath>Assets\dil 1-2.txt</PackagePath>
+      <Modified>2014-05-06T06:26:57.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 10-17.txt">
+      <PackagePath>Assets\dil 10-17.txt</PackagePath>
+      <Modified>2014-05-10T14:21:42.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 110-111.txt">
+      <PackagePath>Assets\dil 110-111.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 112-115.txt">
+      <PackagePath>Assets\dil 112-115.txt</PackagePath>
+      <Modified>2014-05-06T06:27:20.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 116-117.txt">
+      <PackagePath>Assets\dil 116-117.txt</PackagePath>
+      <Modified>2014-05-06T06:27:20.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 118-120.txt">
+      <PackagePath>Assets\dil 118-120.txt</PackagePath>
+      <Modified>2014-05-06T06:27:20.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 121-124.txt">
+      <PackagePath>Assets\dil 121-124.txt</PackagePath>
+      <Modified>2014-05-06T06:27:20.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 125-126.txt">
+      <PackagePath>Assets\dil 125-126.txt</PackagePath>
+      <Modified>2014-05-06T06:27:20.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 127-130.txt">
+      <PackagePath>Assets\dil 127-130.txt</PackagePath>
+      <Modified>2014-05-06T06:27:20.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 18-27.txt">
+      <PackagePath>Assets\dil 18-27.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 28-34.txt">
+      <PackagePath>Assets\dil 28-34.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 3-4.txt">
+      <PackagePath>Assets\dil 3-4.txt</PackagePath>
+      <Modified>2014-05-06T06:26:57.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 35-36.txt">
+      <PackagePath>Assets\dil 35-36.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 38-42.txt">
+      <PackagePath>Assets\dil 38-42.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 43-48.txt">
+      <PackagePath>Assets\dil 43-48.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 49-51.txt">
+      <PackagePath>Assets\dil 49-51.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 5-6.txt">
+      <PackagePath>Assets\dil 5-6.txt</PackagePath>
+      <Modified>2014-05-06T06:26:57.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 52-58.txt">
+      <PackagePath>Assets\dil 52-58.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 59-68.txt">
+      <PackagePath>Assets\dil 59-68.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 69-70.txt">
+      <PackagePath>Assets\dil 69-70.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 7-9.txt">
+      <PackagePath>Assets\dil 7-9.txt</PackagePath>
+      <Modified>2014-05-06T06:26:57.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 72-76.txt">
+      <PackagePath>Assets\dil 72-76.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 77-83.txt">
+      <PackagePath>Assets\dil 77-83.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 84-91.txt">
+      <PackagePath>Assets\dil 84-91.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 92-94.txt">
+      <PackagePath>Assets\dil 92-94.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\dil 95-109.txt">
+      <PackagePath>Assets\dil 95-109.txt</PackagePath>
+      <Modified>2014-05-06T06:16:23.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 100-105.txt">
+      <PackagePath>Assets\edb 100-105.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 106-112.txt">
+      <PackagePath>Assets\edb 106-112.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 113-120.txt">
+      <PackagePath>Assets\edb 113-120.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 12-19.txt">
+      <PackagePath>Assets\edb 12-19.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 121-131.txt">
+      <PackagePath>Assets\edb 121-131.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 132-133.txt">
+      <PackagePath>Assets\edb 132-133.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 134-137.txt">
+      <PackagePath>Assets\edb 134-137.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 20-22.txt">
+      <PackagePath>Assets\edb 20-22.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 23-28.txt">
+      <PackagePath>Assets\edb 23-28.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 29-31.txt">
+      <PackagePath>Assets\edb 29-31.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 32-37.txt">
+      <PackagePath>Assets\edb 32-37.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 38.txt">
+      <PackagePath>Assets\edb 38.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 41-45.txt">
+      <PackagePath>Assets\edb 41-45.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 46-51.txt">
+      <PackagePath>Assets\edb 46-51.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 51-57.txt">
+      <PackagePath>Assets\edb 51-57.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 58-59.txt">
+      <PackagePath>Assets\edb 58-59.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 60-62.txt">
+      <PackagePath>Assets\edb 60-62.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 63-64.txt">
+      <PackagePath>Assets\edb 63-64.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 65-66.txt">
+      <PackagePath>Assets\edb 65-66.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 67-69.txt">
+      <PackagePath>Assets\edb 67-69.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 69-71.txt">
+      <PackagePath>Assets\edb 69-71.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 72-75.txt">
+      <PackagePath>Assets\edb 72-75.txt</PackagePath>
+      <Modified>2014-05-04T16:19:43.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 76-79.txt">
+      <PackagePath>Assets\edb 76-79.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 80-89.txt">
+      <PackagePath>Assets\edb 80-89.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 90-93.txt">
+      <PackagePath>Assets\edb 90-93.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\edb 94-99.txt">
+      <PackagePath>Assets\edb 94-99.txt</PackagePath>
+      <Modified>2014-05-04T15:24:27.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 104.jpg">
+      <PackagePath>Assets\mat 104.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 105.jpg">
+      <PackagePath>Assets\mat 105.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 106.jpg">
+      <PackagePath>Assets\mat 106.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 107.jpg">
+      <PackagePath>Assets\mat 107.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 109.jpg">
+      <PackagePath>Assets\mat 109.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 110.jpg">
+      <PackagePath>Assets\mat 110.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 111.jpg">
+      <PackagePath>Assets\mat 111.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 123.jpg">
+      <PackagePath>Assets\mat 123.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 124.jpg">
+      <PackagePath>Assets\mat 124.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 133.jpg">
+      <PackagePath>Assets\mat 133.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 134.jpg">
+      <PackagePath>Assets\mat 134.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 14.jpg">
+      <PackagePath>Assets\mat 14.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:39.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 142.jpg">
+      <PackagePath>Assets\mat 142.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 143.jpg">
+      <PackagePath>Assets\mat 143.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 152.jpg">
+      <PackagePath>Assets\mat 152.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 166.jpg">
+      <PackagePath>Assets\mat 166.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:41.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 17.jpg">
+      <PackagePath>Assets\mat 17.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:39.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 22.jpg">
+      <PackagePath>Assets\mat 22.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:39.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 23.jpg">
+      <PackagePath>Assets\mat 23.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:39.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 38.jpg">
+      <PackagePath>Assets\mat 38.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:39.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 39.jpg">
+      <PackagePath>Assets\mat 39.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:39.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 44.jpg">
+      <PackagePath>Assets\mat 44.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 52.jpg">
+      <PackagePath>Assets\mat 52.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 62.jpg">
+      <PackagePath>Assets\mat 62.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 63.jpg">
+      <PackagePath>Assets\mat 63.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 73.jpg">
+      <PackagePath>Assets\mat 73.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 74.jpg">
+      <PackagePath>Assets\mat 74.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 84.jpg">
+      <PackagePath>Assets\mat 84.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 85.jpg">
+      <PackagePath>Assets\mat 85.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 95.jpg">
+      <PackagePath>Assets\mat 95.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat 96.jpg">
+      <PackagePath>Assets\mat 96.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:40.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat103.jpg">
+      <PackagePath>Assets\mat103.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:42.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat108.jpg">
+      <PackagePath>Assets\mat108.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:42.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\mat167.jpg">
+      <PackagePath>Assets\mat167.jpg</PackagePath>
+      <Modified>2014-05-10T12:10:42.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\img1.jpg">
+      <PackagePath>Assets\Pictures\img1.jpg</PackagePath>
+      <Modified>2014-05-04T13:10:34.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\img2.jpg">
+      <PackagePath>Assets\Pictures\img2.jpg</PackagePath>
+      <Modified>2014-05-04T13:10:34.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\img3.jpg">
+      <PackagePath>Assets\Pictures\img3.jpg</PackagePath>
+      <Modified>2014-05-04T13:10:34.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\img4.jpg">
+      <PackagePath>Assets\Pictures\img4.jpg</PackagePath>
+      <Modified>2014-05-04T13:10:34.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\img5.jpg">
+      <PackagePath>Assets\Pictures\img5.jpg</PackagePath>
+      <Modified>2014-05-04T13:10:34.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\kitaplık.jpg">
+      <PackagePath>Assets\Pictures\kitaplık.jpg</PackagePath>
+      <Modified>2014-05-04T13:10:34.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\Assets\Pictures\uzun2.jpg">
+      <PackagePath>Assets\Pictures\uzun2.jpg</PackagePath>
+      <Modified>2014-05-06T07:09:22.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-18T10:31:22.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\DersSayfasi.xbf">
+      <PackagePath>DersSayfasi.xbf</PackagePath>
+      <Modified>2014-05-18T10:31:22.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-18T10:31:22.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-21T16:05:18.789</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

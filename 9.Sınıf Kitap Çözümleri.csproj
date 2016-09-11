@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5FCC1AC-107A-470C-A6B7-4D966FE5BCD4}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App2</RootNamespace>
+    <AssemblyName>9.Sınıf Kitap Çözümleri</AssemblyName>
+    <DefaultLanguage>tr</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>9.Sınıf Kitap Çözümleri_StoreKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>DA4AF555B06E0EA5DC94E9C1A1D91699CCD68A93</PackageCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DersSayfasi.xaml.cs">
+      <DependentUpon>DersSayfasi.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="9.Sınıf Kitap Çözümleri_StoreKey.pfx" />
+    <None Include="App2_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\anasayfam1.png" />
+    <Content Include="Assets\logo 2.scale-100.png" />
+    <Content Include="Assets\logo1.png" />
+    <Content Include="Assets\bos.txt" />
+    <Content Include="Assets\dil 131-132.txt" />
+    <Content Include="Assets\dil 1-2.txt" />
+    <Content Include="Assets\dil 10-17.txt" />
+    <Content Include="Assets\dil 110-111.txt" />
+    <Content Include="Assets\dil 112-115.txt" />
+    <Content Include="Assets\dil 116-117.txt" />
+    <Content Include="Assets\dil 118-120.txt" />
+    <Content Include="Assets\dil 121-124.txt" />
+    <Content Include="Assets\dil 125-126.txt" />
+    <Content Include="Assets\dil 127-130.txt" />
+    <Content Include="Assets\dil 18-27.txt" />
+    <Content Include="Assets\dil 28-34.txt" />
+    <Content Include="Assets\dil 3-4.txt" />
+    <Content Include="Assets\dil 35-36.txt" />
+    <Content Include="Assets\dil 38-42.txt" />
+    <Content Include="Assets\dil 43-48.txt" />
+    <Content Include="Assets\dil 49-51.txt" />
+    <Content Include="Assets\dil 5-6.txt" />
+    <Content Include="Assets\dil 52-58.txt" />
+    <Content Include="Assets\dil 59-68.txt" />
+    <Content Include="Assets\dil 69-70.txt" />
+    <Content Include="Assets\dil 7-9.txt" />
+    <Content Include="Assets\dil 72-76.txt" />
+    <Content Include="Assets\dil 77-83.txt" />
+    <Content Include="Assets\dil 84-91.txt" />
+    <Content Include="Assets\dil 92-94.txt" />
+    <Content Include="Assets\dil 95-109.txt" />
+    <Content Include="Assets\edb 100-105.txt" />
+    <Content Include="Assets\edb 106-112.txt" />
+    <Content Include="Assets\edb 113-120.txt" />
+    <Content Include="Assets\edb 12-19.txt" />
+    <Content Include="Assets\edb 121-131.txt" />
+    <Content Include="Assets\edb 132-133.txt" />
+    <Content Include="Assets\edb 134-137.txt" />
+    <Content Include="Assets\edb 20-22.txt" />
+    <Content Include="Assets\edb 23-28.txt" />
+    <Content Include="Assets\edb 29-31.txt" />
+    <Content Include="Assets\edb 32-37.txt" />
+    <Content Include="Assets\edb 38.txt" />
+    <Content Include="Assets\edb 41-45.txt" />
+    <Content Include="Assets\edb 46-51.txt" />
+    <Content Include="Assets\edb 51-57.txt" />
+    <Content Include="Assets\edb 58-59.txt" />
+    <Content Include="Assets\edb 60-62.txt" />
+    <Content Include="Assets\edb 63-64.txt" />
+    <Content Include="Assets\edb 65-66.txt" />
+    <Content Include="Assets\edb 67-69.txt" />
+    <Content Include="Assets\edb 69-71.txt" />
+    <Content Include="Assets\edb 72-75.txt" />
+    <Content Include="Assets\edb 76-79.txt" />
+    <Content Include="Assets\edb 80-89.txt" />
+    <Content Include="Assets\edb 90-93.txt" />
+    <Content Include="Assets\edb 94-99.txt" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\mat 104.jpg" />
+    <Content Include="Assets\mat 105.jpg" />
+    <Content Include="Assets\mat 106.jpg" />
+    <Content Include="Assets\mat 107.jpg" />
+    <Content Include="Assets\mat 109.jpg" />
+    <Content Include="Assets\mat 110.jpg" />
+    <Content Include="Assets\mat 111.jpg" />
+    <Content Include="Assets\mat 123.jpg" />
+    <Content Include="Assets\mat 124.jpg" />
+    <Content Include="Assets\mat 133.jpg" />
+    <Content Include="Assets\mat 134.jpg" />
+    <Content Include="Assets\mat 14.jpg" />
+    <Content Include="Assets\mat 142.jpg" />
+    <Content Include="Assets\mat 143.jpg" />
+    <Content Include="Assets\mat 152.jpg" />
+    <Content Include="Assets\mat 166.jpg" />
+    <Content Include="Assets\mat 17.jpg" />
+    <Content Include="Assets\mat 22.jpg" />
+    <Content Include="Assets\mat 23.jpg" />
+    <Content Include="Assets\mat 38.jpg" />
+    <Content Include="Assets\mat 39.jpg" />
+    <Content Include="Assets\mat 44.jpg" />
+    <Content Include="Assets\mat 52.jpg" />
+    <Content Include="Assets\mat 62.jpg" />
+    <Content Include="Assets\mat 63.jpg" />
+    <Content Include="Assets\mat 73.jpg" />
+    <Content Include="Assets\mat 74.jpg" />
+    <Content Include="Assets\mat 84.jpg" />
+    <Content Include="Assets\mat 85.jpg" />
+    <Content Include="Assets\mat 95.jpg" />
+    <Content Include="Assets\mat 96.jpg" />
+    <Content Include="Assets\mat103.jpg" />
+    <Content Include="Assets\mat108.jpg" />
+    <Content Include="Assets\mat167.jpg" />
+    <Content Include="Assets\Pictures\bu.png" />
+    <Content Include="Assets\Pictures\img1.jpg" />
+    <Content Include="Assets\Pictures\img2.jpg" />
+    <Content Include="Assets\Pictures\img3.jpg" />
+    <Content Include="Assets\Pictures\img4.jpg" />
+    <Content Include="Assets\Pictures\img5.jpg" />
+    <Content Include="Assets\Pictures\kitaplık.jpg" />
+    <Content Include="Assets\Pictures\uzun2.jpg" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <None Include="Package.StoreAssociation.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="DersSayfasi.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

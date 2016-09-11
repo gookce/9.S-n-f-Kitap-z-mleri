@@ -1,0 +1,72 @@
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\resources.pri
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\AppxManifest.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.build.appxrecipe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\App.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\App.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\App.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\priconfig.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\priconfig.xml.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\layout.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\layout.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\resources.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\resources.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\pri.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\pri.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\qualifiers.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\qualifiers.txt.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Release\ProjectArchitectures.txt
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\App.xbf
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\DersSayfasi.xbf
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\MainPage.xbf
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\resources.pri
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\AppxManifest.xml
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\bin\Release\9.Sınıf Kitap Çözümleri.build.appxrecipe
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\App.g.i.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\App.g.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.g.i.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.g.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.g.i.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.g.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\XamlTypeInfo.g.cs
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\App.xaml
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.xaml
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.xaml
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\App.xbf
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\DersSayfasi.xbf
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\MainPage.xbf
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\XamlSaveStateFile.xml
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\priconfig.xml
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\priconfig.xml.intermediate
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\layout.resfiles
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\layout.resfiles.intermediate
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\resources.resfiles
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\resources.resfiles.intermediate
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\pri.resfiles
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\pri.resfiles.intermediate
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\qualifiers.txt
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\qualifiers.txt.intermediate
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Documents\Visual Studio 2013\Projects\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Release\ProjectArchitectures.txt

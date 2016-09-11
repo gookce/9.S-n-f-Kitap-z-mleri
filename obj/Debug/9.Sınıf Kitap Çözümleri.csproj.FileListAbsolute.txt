@@ -1,0 +1,160 @@
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\App.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\App2.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri\9.Sınıf Kitap Çözümleri\obj\Debug\App2.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\App.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\resources.pri
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\AppxManifest.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.build.appxrecipe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - Kopya\9.Sınıf Kitap Çözümleri\obj\Debug\ProjectArchitectures.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\resources.pri
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\AppxManifest.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.build.appxrecipe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\App.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri - 2\9.Sınıf Kitap Çözümleri\obj\Debug\ProjectArchitectures.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\resources.pri
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\AppxManifest.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.build.appxrecipe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\App.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri -2-\9.Sınıf Kitap Çözümleri\obj\Debug\ProjectArchitectures.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\resources.pri
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\AppxManifest.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\bin\Debug\9.Sınıf Kitap Çözümleri.build.appxrecipe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\App.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.i.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\App.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xaml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\App.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\DersSayfasi.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\MainPage.xbf
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\XamlSaveStateFile.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.exe
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\9.Sınıf Kitap Çözümleri.pdb
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\priconfig.xml.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\layout.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\resources.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\pri.resfiles.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\qualifiers.txt.intermediate
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gökçe\Desktop\9.Sınıf Kitap Çözümleri son\9.Sınıf Kitap Çözümleri\obj\Debug\ProjectArchitectures.txt

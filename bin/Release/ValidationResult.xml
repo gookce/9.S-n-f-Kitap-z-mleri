@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='C:\ProgramData\Windows App Certification Kit\results.xsl'?>
+<REPORT OVERALL_RESULT="PASS" VERSION="3.1" LATEST_VERSION="FALSE" UPDATE_DOWNLOAD_URL="http://go.microsoft.com/fwlink/?LinkID=246599&amp;amp;clcid=0x409" TOOLSET_ARCHITECTURE="X64" SecureBoot="FALSE" APP_TYPE="WindowsStore" PUBLISHER_DISPLAY_NAME="Gökçe Demir" OSVERSION="6.3.9600.0" OS="Microsoft Windows 8.1 Single Language" PER_USER_APPLICATION="" PARTIAL_RUN="TRUE" LCID="1055" VALIDATION_TYPE="UI" ReportGenerationTime="21.5.2014 19:07:09" ID="4f1df7fd3689a9ad15fd8f88ef496e13">
+  <REQUIREMENTS>
+    <REQUIREMENT NUMBER="1" TITLE="Temiz, geri alınabilir yükleme sınaması" RATIONALE="Temiz, geri alınabilir bir yükleme, kullanıcıların sistemlerindeki uygulamaları başarıyla yönetmelerine (dağıtım ve kaldırma) olanak tanır." />
+    <REQUIREMENT NUMBER="2" TITLE="Doğru klasörlere yükleme sınaması" RATIONALE="Windows, dosya sisteminde programları ve yazılım bileşenlerini, paylaşılan uygulama verilerini ve kullanıcıya özgü uygulama verilerini depolamak için belirli konumlar sağlar." />
+    <REQUIREMENT NUMBER="3" TITLE="Dijital olarak imzalanmış dosya sınaması" RATIONALE="Authenticode dijital imzası kullanıcıların yazılımın orijinal olduğundan emin olmasına olanak tanır. Ayrıca, bir dosyayla oynandığını, örneğin dosyaya virüs bulaştığını algılamayı da sağlar." />
+    <REQUIREMENT NUMBER="4" TITLE="x64 Windows'u destekleme sınaması" RATIONALE="Windows'un 64 bit sürümleriyle uyumluluğu korumak için, uygulamaların 64 biti yerel olarak desteklemesi veya en azından 32 bit Windows tabanlı uygulamaların 64 bit üzerinde sorunsuz çalıştırabilmesi gerekir." />
+    <REQUIREMENT NUMBER="5" TITLE="İşletim sistemi sürüm denetleme sınaması" RATIONALE="Uygulamaların eşitlik için (== 5.1) sürüm denetimleri yapmaması gerekir. Belirli bir özelliğe gerek duyarsanız, özelliğin var olup olmadığını denetleyin. Windows XP'ye gerek duyarsanız, Windows XP veya üstü (&gt;= 5.1) için denetim yapın. Bu şekilde, algılama kodunuz Windows'un gelecek sürümlerinde de çalışmaya devam eder. Sürücü yükleyicileri ve yüklemeyi kaldırma modülleri hiçbir zaman işletim sistemi sürümünü denetlememelidir." />
+    <REQUIREMENT NUMBER="6" TITLE="Kullanıcı hesabı denetimi (UAC) sınaması" RATIONALE="Çoğu uygulama çalıştırma zamanında yönetici ayrıcalıkları gerektirmez ve standart kullanıcı olarak sorunsuz çalışmalıdır. Windows uygulamalarında, uygulamayı çalıştırmak için gereken ayrıcalıkları işletim sistemine bildiren yürütme düzeyini tanımlamaya yönelik bir bildirim (katıştırılmış veya dış) bulunmalıdır." />
+    <REQUIREMENT NUMBER="7" TITLE="Sistem yeniden başlatma yöneticisi iletilerine bağlı kal" RATIONALE="Kritik bir kapatma durumunda, WM_QUERYENDSESSION'a FALSE döndüren uygulamalara WM_ENDSESSION gönderilir ve uygulamalar kapatılır; öte yandan WM_QUERYENDSESSION'a karşılık olarak zaman aşımına uğrayan uygulamalar sonlandırılır." />
+    <REQUIREMENT NUMBER="8" TITLE="Güvenli mod sınaması" RATIONALE="Varsayılan olarak, Windows'la birlikte önceden yüklenmiş olarak gönderilmeyen sürücü ve hizmetlerin çoğu Güvenli Mod'da başlatılmaz. Sistemin temel işlemleri için veya tanılama ve kurtarma amacıyla gerekli olmadığı sürece bunların devre dışı kalması gerekir." />
+    <REQUIREMENT NUMBER="9" TITLE="Çok kullanıcılı oturum sınaması" RATIONALE="Windows kullanıcıları çakışma veya kesilme olmadan eşzamanlı oturumlar çalıştırabilmelidir. Uygulamaların, yerel olarak veya uzaktan birden çok oturumda çalıştırılırken normal işlevselliklerinin etkilenmemesini sağlamaları gerekir. Uygulama ayarları ve veri dosyaları kullanıcılar genelinde kalıcı olmamalıdır. Bir kullanıcının gizliliği ve tercihleri, o kullanıcının oturumunda yalıtılmalıdır." />
+    <REQUIREMENT NUMBER="10" TITLE="Kilitlenme ve takılma testi" RATIONALE="Kilitlenme ve yanıt vermemeye başlama gibi uygulama hataları kullanıcılar için çok önemli aksaklıklardır ve sıkıntıya neden olurlar. Bu tür hataların ortadan kaldırılması uygulama kararlılığını ve güvenilirliğini geliştirir ve genel olarak kullanıcılara daha iyi bir uygulama deneyimi sağlar." />
+    <REQUIREMENT NUMBER="11" TITLE="Uyumluluk ve dayanıklılık sınaması" RATIONALE="Windows bir uygulamanın uyumsuz bir şekilde çalıştığını algılarsa, uygulamanın düzgün davranmasına neden olacak bir uyumluluk düzeltmesi uygulayarak olumlu bir kullanıcı deneyimi sağlar. Bu davranış yalnızca eski uygulamaların Windows'da düzgün çalışmasını sağlamaya yönelik olduğundan, uygulamaların buna güvenmemesi gerekir." />
+    <REQUIREMENT NUMBER="12" TITLE="Uygulama bildirim uyumluluğu sınaması" RATIONALE="Paket bildiriminde bir veya birden çok gerekli öznitelik eksikti.">
+      <TEST INDEX="31" NAME="Uygulama bildirimi" DESCRIPTION="Uygulama bildiriminde tüm gerekli alanlar için geçerli girdiler bulunmalıdır." EXECUTIONTIME="00h:00m:20s.27ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="13" TITLE="Windows en iyi güvenlik uygulamaları testi" RATIONALE="Uygulama, varsayılan Windows güvenlik ayarlarını değiştirmemelidir." />
+    <REQUIREMENT NUMBER="14" TITLE="Windows güvenlik özellikleri testi" RATIONALE="Uygulamalar, Windows güvenlik özelliklerini kabul etmelidir." />
+    <REQUIREMENT NUMBER="15" TITLE="Desteklenen API sınaması" RATIONALE="Uygulama, yalnızca Windows Mağazası Uygulamaları için Windows SDK tarafından izin verilen API'lere başvurmalıdır." />
+    <REQUIREMENT NUMBER="17" TITLE="Performans sınaması" RATIONALE="Daha önce açılmamış uygulamalar arasında hızlı geçiş ve çok görevli çalışmaya olanak tanımak için uygulama sistem kaynaklarının (CPU, Dosya GÇ, Bellek, vb.) makul bir miktarını kullanırken hızlı ve çabuk başlatılmalı ve deneyimi askıya almalıdır." />
+    <REQUIREMENT NUMBER="19" TITLE="Uygulama bildirim kaynakları sınaması" RATIONALE="Appx Paket Bildirimi'nin resources.pri dosyasında tanımlanan kaynakları Appx Paketleme Belirtimi ve Appx Bildirim Şeması'na uygun olarak geçerli kaynaklar olmalıdır.">
+      <TEST INDEX="45" NAME="Uygulama kaynakları doğrulaması" DESCRIPTION="Paketin resources.pri dosyasında tanımlanmış geçerli kaynakları olmalıdır." EXECUTIONTIME="00h:00m:01s.96ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+      <TEST INDEX="61" NAME="Markalama doğrulaması" DESCRIPTION="Uygulama, windows SDK örnekleri veya Visual Studio tarafından paketlenen varsayılan görüntüleri kullanmamalıdır." EXECUTIONTIME="00h:00m:15s.46ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="20" TITLE="Hata ayıklama yapılandırması sınaması" RATIONALE="Uygulama hiçbir hata ayıklama ikili dosyası yüklememelidir." />
+    <REQUIREMENT NUMBER="21" TITLE="Dosya kodlama testi" RATIONALE="HTML5 Windows Mağazası uygulaması içeren paketlerde doğru dosya kodlaması olmalıdır." />
+    <REQUIREMENT NUMBER="22" TITLE="Direct3D Özellik Testi" RATIONALE="Uygulama Direct3D özelliğini doğru kullanmalıdır." />
+    <REQUIREMENT NUMBER="23" TITLE="Uygulama Özellikleri testi" RATIONALE="Özel kullanım özellikleri bildiren paketlerin ekleme işlemi sırasında gerekçelendirmeler sağlaması gerekecektir.">
+      <TEST INDEX="52" NAME="Özel kullanım özellikleri" DESCRIPTION="Özel kullanım özellikleri bildiren paketlerin ekleme işlemi sırasında gerekçelendirmeler sağlaması gerekecektir." EXECUTIONTIME="00h:00m:08s.39ms">
+        <RESULT><![CDATA[PASS]]></RESULT>
+        <MESSAGES />
+      </TEST>
+    </REQUIREMENT>
+    <REQUIREMENT NUMBER="24" TITLE="Windows Çalışma Zamanı meta veri doğrulama" RATIONALE="Meta verilerin tüm oluşturma kaynaklarında uyumlu ve tutarlı olması gerekir." />
+    <REQUIREMENT NUMBER="25" TITLE="Paket sağlamlık testi" RATIONALE="Doğruluğu güvence altına almak için uygulama paketi içeriğini doğrulama." />
+    <REQUIREMENT NUMBER="26" TITLE="Yüksek DPI desteği" RATIONALE="Kullanıcı arabiriminin çok çeşitli yüksek DPI görüntü ayarlarında tutarlı bir şekilde düzgün görünmesi için, uygulama DPI kullanılır olarak ayarlanmalıdır." />
+    <REQUIREMENT NUMBER="27" TITLE="Kaynak Kullanım Testi" RATIONALE="WinJS arka plan görevleri, kaynağı serbest bırakmak için close() çağrısı yapmalıdır." />
+  </REQUIREMENTS>
+  <APPLICATIONS>
+    <Installed_Programs>
+      <Program Name="31329GkeDemir.9.SnfKitapzmleri" Type="Application" Source="AppxPackage" Publisher="CN=D94A7BD3-2EAB-4797-8DB7-952EDF61A55D" Version="1.1.0.5" Language="1033" OnSystemDrive="true" RootDirPath="C:\Program Files\WindowsApps\31329GkeDemir.9.SnfKitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c" PathEvidenceId="0xa" RNP="0x1" DNP="0xd" EvidenceId="0xa" Id="00009654c69800706fb9b0580c59428fef6c00000904">
+        <Indicators>
+          <DirectoryIndicators>
+            <Directory Name="31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c" Path="c:\program files\windowsapps\31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c" RNP="0x9" DNP="0xb" UniqueId="0xb" Id="00001d2f9093a9071a7dae83d9ece782460b95445a21" />
+          </DirectoryIndicators>
+          <WindowsStoreAppManifestIndicators>
+            <PackageManifest PackageFullName="31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c">
+              <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+                <Identity Name="31329GkeDemir.9.SnfKitapzmleri" Publisher="CN=D94A7BD3-2EAB-4797-8DB7-952EDF61A55D" Version="1.1.0.5" ProcessorArchitecture="neutral" />
+                <Properties>
+                  <DisplayName>9.Sınıf Kitap Çözümleri</DisplayName>
+                  <PublisherDisplayName>Gökçe Demir</PublisherDisplayName>
+                  <Logo>Assets\StoreLogo.png</Logo>
+                </Properties>
+                <Prerequisites>
+                  <OSMinVersion>6.3.0</OSMinVersion>
+                  <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+                </Prerequisites>
+                <Resources>
+                  <Resource Language="TR" />
+                </Resources>
+                <Applications>
+                  <Application Id="App" Executable="9.Sınıf Kitap Çözümleri.exe" EntryPoint="9.Sınıf Kitap Çözümleri.App">
+                    <m2:VisualElements DisplayName="9.Sınıf Kitap Çözümleri" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\logo 2.png" Description="Bu uygulama ile edebiyat,dil ve anlatım,matematik dersleri için kitaptaki soruların çözümüne internet bağlantısız bir şekilde ulaşabilirsiniz.Kullanımı için  sadece sayfa numarasını giriyorsunuz ve kategorilerden birini seçiyorsunuz.Tebrikler işte oldu ödevinizi rahatlıkla yapabilirsiniz..." ForegroundText="dark" BackgroundColor="white">
+                      <m2:DefaultTile>
+                        <m2:ShowNameOnTiles>
+                          <m2:ShowOn Tile="square150x150Logo" />
+                        </m2:ShowNameOnTiles>
+                      </m2:DefaultTile>
+                      <m2:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="white" />
+                      <m2:InitialRotationPreference>
+                        <m2:Rotation Preference="landscape" />
+                      </m2:InitialRotationPreference>
+                    </m2:VisualElements>
+                  </Application>
+                </Applications>
+                <Capabilities>
+                  <Capability Name="internetClient" />
+                </Capabilities>
+              </Package>
+            </PackageManifest>
+          </WindowsStoreAppManifestIndicators>
+        </Indicators>
+        <StaticProperties>
+          <Files Id="0000ddf8914fd1966f4ade0f9a09a2dbfdcf0860c130">
+            <File Name="resources.pri" Id="0000b9fbc79796bd2c512859cd07bfd556e172a85bc4" ShortName="RESOUR~1.PRI" Size="0x2f30" BinaryType="UNKNOWN" Created="05/21/2014 16:05:50" Modified="05/21/2014 16:05:51" Path="c:\program files\windowsapps\31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c" RNP="0xa" DNP="0x9" LowerCaseLongPath="c:\program files\windowsapps\31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c\resources.pri" LongPathHash="000073129886cf328438da354c65e1947e5fd1b7e7ec" UniqueId="0xd" />
+            <File Name="9.Sınıf Kitap Çözümleri.exe" Id="000003ba5a8e8ed9580158b4cd3887899ab3ae124fc7" ProductName="9.Sınıf Kitap Çözümleri" ProductVersion="1.0.0.0" VerLanguage="0" ShortName="9SNFKI~1.EXE" SwitchBackContext="0x0100000000000602" FileVersion="1.0.0.0" Size="0x5e00" SizeOfImage="0xc000" PeHeaderHash="0101086177addf632fe26c6b2b311542d1e5c86d67b3" PeChecksum="0x0" PeImageType="0x14c" PeSubsystem="2" BinProductVersion="1.0.0.0" BinFileVersion="1.0.0.0" FileDescription="9.Sınıf Kitap Çözümleri" InternalName="9.Sınıf Kitap Çözümleri.exe" LegalCopyright="Copyright ©  2014" LinkerVersion="11.0" LinkDate="05/18/2014 11:49:20" BinaryType="DOTNETIL" Created="05/21/2014 16:05:49" Modified="05/21/2014 16:05:50" OriginalFilename="9.Sınıf Kitap Çözümleri.exe" RunLevel="AsInvoker" UiAccess="false" Path="c:\program files\windowsapps\31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c" RNP="0x4" DNP="0x5" LowerCaseLongPath="c:\program files\windowsapps\31329gkedemir.9.snfkitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c\9.sınıf kitap Çözümleri.exe" LongPathHash="000093cd3266162136c198b65d8cebe6bee2c2650f38" UniqueId="0xc" />
+          </Files>
+        </StaticProperties>
+      </Program>
+    </Installed_Programs>
+  </APPLICATIONS>
+  <DEPENDENCY_INFORMATION>
+    <AitStaticAnalysis ProgramId="00009654c69800706fb9b0580c59428fef6c00000904" AnalysisVersion="1.60" DictionaryVersion="2.14" Type="Package" Id="31329GkeDemir.9.SnfKitapzmleri_1.1.0.5_neutral__97ngnz5mx8h7c">
+      <AitFile ErrorCode="0" Name="9.Sınıf Kitap Çözümleri.exe" Id="000003ba5a8e8ed9580158b4cd3887899ab3ae124fc7">
+        <AitCategory Id="ApiStatic">
+          <AitFeature Name="mscoree.dll!_CorExeMain" />
+        </AitCategory>
+        <AitCategory Id="DotNet">
+          <AitFeature Name="System.Action`1" />
+          <AitFeature Name="System.ArgumentException" />
+          <AitFeature Name="System.ArgumentException..ctor" />
+          <AitFeature Name="System.AsyncCallback" />
+          <AitFeature Name="System.Char" />
+          <AitFeature Name="System.CodeDom.Compiler.GeneratedCodeAttribute" />
+          <AitFeature Name="System.CodeDom.Compiler.GeneratedCodeAttribute..ctor" />
+          <AitFeature Name="System.Collections.Generic.Dictionary`2" />
+          <AitFeature Name="System.Collections.Generic.IReadOnlyList`1" />
+          <AitFeature Name="System.Convert" />
+          <AitFeature Name="System.Convert.ToInt32" />
+          <AitFeature Name="System.Diagnostics.DebuggableAttribute" />
+          <AitFeature Name="System.Diagnostics.DebuggableAttribute..ctor" />
+          <AitFeature Name="System.Diagnostics.DebuggerHiddenAttribute" />
+          <AitFeature Name="System.Diagnostics.DebuggerHiddenAttribute..ctor" />
+          <AitFeature Name="System.Diagnostics.DebuggerNonUserCodeAttribute" />
+          <AitFeature Name="System.Diagnostics.DebuggerNonUserCodeAttribute..ctor" />
+          <AitFeature Name="System.Diagnostics.DebuggerStepThroughAttribute" />
+          <AitFeature Name="System.Diagnostics.DebuggerStepThroughAttribute..ctor" />
+          <AitFeature Name="System.Exception" />
+          <AitFeature Name="System.Exception..ctor" />
+          <AitFeature Name="System.FormatException" />
+          <AitFeature Name="System.Func`2" />
+          <AitFeature Name="System.IAsyncResult" />
+          <AitFeature Name="System.IDisposable" />
+          <AitFeature Name="System.IDisposable.Dispose" />
+          <AitFeature Name="System.Int32" />
+          <AitFeature Name="System.Int32.Parse" />
+          <AitFeature Name="System.InvalidOperationException" />
+          <AitFeature Name="System.InvalidOperationException..ctor" />
+          <AitFeature Name="System.MulticastDelegate" />
+          <AitFeature Name="System.NotImplementedException" />
+          <AitFeature Name="System.NotImplementedException..ctor" />
+          <AitFeature Name="System.Object" />
+          <AitFeature Name="System.Object..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyCompanyAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyCompanyAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyConfigurationAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyConfigurationAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyCopyrightAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyCopyrightAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyCultureAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyCultureAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyDescriptionAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyDescriptionAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyFileVersionAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyFileVersionAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyProductAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyProductAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyTitleAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyTitleAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyTrademarkAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyTrademarkAttribute..ctor" />
+          <AitFeature Name="System.Reflection.AssemblyVersionAttribute" />
+          <AitFeature Name="System.Reflection.AssemblyVersionAttribute..ctor" />
+          <AitFeature Name="System.Resources.NeutralResourcesLanguageAttribute" />
+          <AitFeature Name="System.Resources.NeutralResourcesLanguageAttribute..ctor" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncStateMachineAttribute" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncStateMachineAttribute..ctor" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.AwaitUnsafeOnCompleted" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.Create" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.SetException" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.SetResult" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.SetStateMachine" />
+          <AitFeature Name="System.Runtime.CompilerServices.AsyncVoidMethodBuilder.Start" />
+          <AitFeature Name="System.Runtime.CompilerServices.CompilationRelaxationsAttribute" />
+          <AitFeature Name="System.Runtime.CompilerServices.CompilationRelaxationsAttribute..ctor" />
+          <AitFeature Name="System.Runtime.CompilerServices.CompilerGeneratedAttribute" />
+          <AitFeature Name="System.Runtime.CompilerServices.CompilerGeneratedAttribute..ctor" />
+          <AitFeature Name="System.Runtime.CompilerServices.IAsyncStateMachine" />
+          <AitFeature Name="System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext" />
+          <AitFeature Name="System.Runtime.CompilerServices.IAsyncStateMachine.SetStateMachine" />
+          <AitFeature Name="System.Runtime.CompilerServices.RuntimeCompatibilityAttribute" />
+          <AitFeature Name="System.Runtime.CompilerServices.RuntimeCompatibilityAttribute..ctor" />
+          <AitFeature Name="System.Runtime.CompilerServices.RuntimeHelpers" />
+          <AitFeature Name="System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor" />
+          <AitFeature Name="System.Runtime.CompilerServices.TaskAwaiter`1" />
+          <AitFeature Name="System.Runtime.InteropServices.ComVisibleAttribute" />
+          <AitFeature Name="System.Runtime.InteropServices.ComVisibleAttribute..ctor" />
+          <AitFeature Name="System.Runtime.InteropServices.WindowsRuntime.EventRegistrationToken" />
+          <AitFeature Name="System.Runtime.InteropServices.WindowsRuntime.WindowsRuntimeMarshal" />
+          <AitFeature Name="System.Runtime.InteropServices.WindowsRuntime.WindowsRuntimeMarshal.AddEventHandler" />
+          <AitFeature Name="System.Runtime.Versioning.TargetFrameworkAttribute" />
+          <AitFeature Name="System.Runtime.Versioning.TargetFrameworkAttribute..ctor" />
+          <AitFeature Name="System.RuntimeTypeHandle" />
+          <AitFeature Name="System.String" />
+          <AitFeature Name="System.String.Compare" />
+          <AitFeature Name="System.String.CompareOrdinal" />
+          <AitFeature Name="System.String.Concat" />
+          <AitFeature Name="System.String.Contains" />
+          <AitFeature Name="System.String.IsNullOrEmpty" />
+          <AitFeature Name="System.String.Split" />
+          <AitFeature Name="System.String.Trim" />
+          <AitFeature Name="System.String.get_Length" />
+          <AitFeature Name="System.StringComparison" />
+          <AitFeature Name="System.Type" />
+          <AitFeature Name="System.Type.GetTypeFromHandle" />
+          <AitFeature Name="System.Type.get_FullName" />
+          <AitFeature Name="System.Type.get_TypeHandle" />
+          <AitFeature Name="System.Uri" />
+          <AitFeature Name="System.Uri..ctor" />
+          <AitFeature Name="System.ValueType" />
+          <AitFeature Name="System.WindowsRuntimeSystemExtensions" />
+          <AitFeature Name="System.WindowsRuntimeSystemExtensions.GetAwaiter" />
+        </AitCategory>
+        <AitCategory Id="DotNetWinRt">
+          <AitFeature Name="Windows.ApplicationModel.Activation.ApplicationExecutionState" />
+          <AitFeature Name="Windows.ApplicationModel.Activation.LaunchActivatedEventArgs" />
+          <AitFeature Name="Windows.ApplicationModel.Activation.LaunchActivatedEventArgs.get_Arguments" />
+          <AitFeature Name="Windows.ApplicationModel.Activation.LaunchActivatedEventArgs.get_PreviousExecutionState" />
+          <AitFeature Name="Windows.ApplicationModel.Package" />
+          <AitFeature Name="Windows.ApplicationModel.Package.get_Current" />
+          <AitFeature Name="Windows.ApplicationModel.Package.get_InstalledLocation" />
+          <AitFeature Name="Windows.ApplicationModel.SuspendingDeferral" />
+          <AitFeature Name="Windows.ApplicationModel.SuspendingDeferral.Complete" />
+          <AitFeature Name="Windows.ApplicationModel.SuspendingEventArgs" />
+          <AitFeature Name="Windows.ApplicationModel.SuspendingEventArgs.get_SuspendingOperation" />
+          <AitFeature Name="Windows.ApplicationModel.SuspendingOperation" />
+          <AitFeature Name="Windows.ApplicationModel.SuspendingOperation.GetDeferral" />
+          <AitFeature Name="Windows.Foundation.IAsyncOperation`1" />
+          <AitFeature Name="Windows.Globalization.ApplicationLanguages" />
+          <AitFeature Name="Windows.Globalization.ApplicationLanguages.get_Languages" />
+          <AitFeature Name="Windows.Storage.FileIO" />
+          <AitFeature Name="Windows.Storage.FileIO.ReadTextAsync" />
+          <AitFeature Name="Windows.Storage.IStorageFile" />
+          <AitFeature Name="Windows.Storage.StorageFile" />
+          <AitFeature Name="Windows.Storage.StorageFile.get_Path" />
+          <AitFeature Name="Windows.Storage.StorageFolder" />
+          <AitFeature Name="Windows.Storage.StorageFolder.GetFileAsync" />
+          <AitFeature Name="Windows.Storage.StorageFolder.GetFolderAsync" />
+          <AitFeature Name="Windows.Storage.Streams.UnicodeEncoding" />
+          <AitFeature Name="Windows.UI.Xaml.Application" />
+          <AitFeature Name="Windows.UI.Xaml.Application..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.Application.LoadComponent" />
+          <AitFeature Name="Windows.UI.Xaml.Application.Start" />
+          <AitFeature Name="Windows.UI.Xaml.Application.add_Suspending" />
+          <AitFeature Name="Windows.UI.Xaml.Application.remove_Suspending" />
+          <AitFeature Name="Windows.UI.Xaml.ApplicationInitializationCallback" />
+          <AitFeature Name="Windows.UI.Xaml.ApplicationInitializationCallback..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.ApplicationInitializationCallbackParams" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Button" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.ContentControl" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.ContentControl.get_Content" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Frame" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Frame..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Frame.Navigate" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Frame.add_NavigationFailed" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Frame.remove_NavigationFailed" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Image" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Image.put_Source" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Page" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Page..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Page.get_Frame" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Primitives.ButtonBase" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Primitives.ButtonBase.add_Click" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Primitives.ButtonBase.remove_Click" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.Primitives.ComponentResourceLocation" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.TextBlock" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.TextBlock.put_Text" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.TextBox" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.TextBox.get_Text" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.TextBox.put_Text" />
+          <AitFeature Name="Windows.UI.Xaml.Controls.UserControl" />
+          <AitFeature Name="Windows.UI.Xaml.FrameworkElement" />
+          <AitFeature Name="Windows.UI.Xaml.FrameworkElement.FindName" />
+          <AitFeature Name="Windows.UI.Xaml.FrameworkElement.add_Loaded" />
+          <AitFeature Name="Windows.UI.Xaml.FrameworkElement.put_Language" />
+          <AitFeature Name="Windows.UI.Xaml.FrameworkElement.remove_Loaded" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.IComponentConnector" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.IXamlMember" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.IXamlMetadataProvider" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.IXamlType" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.IXamlType.get_FullName" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.IXamlType.get_UnderlyingType" />
+          <AitFeature Name="Windows.UI.Xaml.Markup.XmlnsDefinition" />
+          <AitFeature Name="Windows.UI.Xaml.Media.ImageSource" />
+          <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapImage" />
+          <AitFeature Name="Windows.UI.Xaml.Media.Imaging.BitmapImage..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.Navigation.NavigationFailedEventArgs" />
+          <AitFeature Name="Windows.UI.Xaml.Navigation.NavigationFailedEventArgs.get_SourcePageType" />
+          <AitFeature Name="Windows.UI.Xaml.Navigation.NavigationFailedEventHandler" />
+          <AitFeature Name="Windows.UI.Xaml.Navigation.NavigationFailedEventHandler..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.RoutedEventArgs" />
+          <AitFeature Name="Windows.UI.Xaml.RoutedEventHandler" />
+          <AitFeature Name="Windows.UI.Xaml.RoutedEventHandler..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.SuspendingEventHandler" />
+          <AitFeature Name="Windows.UI.Xaml.SuspendingEventHandler..ctor" />
+          <AitFeature Name="Windows.UI.Xaml.UIElement" />
+          <AitFeature Name="Windows.UI.Xaml.Window" />
+          <AitFeature Name="Windows.UI.Xaml.Window.Activate" />
+          <AitFeature Name="Windows.UI.Xaml.Window.get_Content" />
+          <AitFeature Name="Windows.UI.Xaml.Window.get_Current" />
+          <AitFeature Name="Windows.UI.Xaml.Window.put_Content" />
+        </AitCategory>
+      </AitFile>
+    </AitStaticAnalysis>
+  </DEPENDENCY_INFORMATION>
+</REPORT>
